@@ -1,0 +1,9 @@
+{
+	"firstName": "json",
+	"lastName": "data",
+	"emailId": "json@gmail.com",
+    "createdAt":"2018-03-29T13:34:00.000",
+    "createdBy":"json",
+    "updatedAt":"2018-03-29T13:34:00.000",
+    "updatedBy":"data"
+}
